@@ -1,5 +1,4 @@
-// Random-Data
-// Some Random Normalized Data to play around and make some interactive data visualization
+
 [
 {"market": "Auburn, AL", "segment": "Almond lovers", "value": 3840},
 {"market": "Auburn, AL", "segment": "Berry buyers", "value": 1920},
